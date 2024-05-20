@@ -1,0 +1,155 @@
+﻿@model AttendenceSystemWebApp.Models.AttndRegDet
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+<br />
+<br />
+
+<h3>Are you sure you want to delete this?</h3>
+<br />
+<div>
+    <table class="table-bordered" >
+        <thead>
+            <tr>
+                <td>
+                    @Html.DisplayNameFor(model => model.EmpCod)
+                </td>
+                
+                <td>
+                    @Html.DisplayNameFor(model => model.EndTime)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.LateTime)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.CheckStatus)
+
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.LateStart)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.EarlyOut)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.Remarks)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.CheckInImageUrl)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.CheckOutImageUrl)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.Latitude)
+
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.Longitude)
+
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.CreatedBy)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.UpdatedBy)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.UpdatedDate)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.EntryTime)
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => model.EmpCod)
+                </td>
+               
+                <td>
+                    @Html.DisplayFor(model => model.EndTime)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.LateTime)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.CheckStatus)
+                </td>
+
+
+
+                <td>
+                    @Html.DisplayFor(model => model.LateStart)
+                </td>
+
+
+
+                <td>
+                    @Html.DisplayFor(model => model.EarlyOut)
+                </td>
+
+
+
+                <td>
+                    @Html.DisplayFor(model => model.Remarks)
+                </td>
+
+
+
+                <td>
+                    @Html.DisplayFor(model => model.CheckInImageUrl)
+                </td>
+
+
+
+                <td>
+                    @Html.DisplayFor(model => model.CheckOutImageUrl)
+                </td>
+
+
+
+                <td>
+                    @Html.DisplayFor(model => model.Latitude)
+                </td>
+
+
+                <td>
+                    @Html.DisplayFor(model => model.Longitude)
+                </td>
+
+
+
+                <td>
+                    @Html.DisplayFor(model => model.CreatedBy)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(model => model.UpdatedBy)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.UpdatedDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.EntryTime)
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <hr />
+    <dl class="d-lg-table-row"></dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

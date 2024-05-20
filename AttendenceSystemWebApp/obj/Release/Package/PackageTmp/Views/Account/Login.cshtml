@@ -1,0 +1,171 @@
+﻿@using AttendenceSystemWebApp.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+    Layout = null;
+
+}
+<link href="~/Content/Login.css" rel="stylesheet" />
+
+
+<style>
+    #eyep {
+        color: royalblue;
+        padding-left: 5px;
+        padding-top: 6px;
+        position: fixed;
+    }
+
+    #hide1 {
+        display: none;
+    }
+
+    .cerror {
+        color: red;
+        font-style: oblique;
+        text-shadow: 1px 1px 1px black;
+    }
+
+    .error {
+        color: red;
+    }
+</style>
+
+
+<div class="container">
+    <center>
+        <div class="login">
+
+            <p class="lbl-login animated tada" style="font-family: Monoton;">
+                Login
+            </p>
+            @*@if (ViewBag.Message != null)
+            {
+                <h6 style="color:red">@ViewBag.Message</h6>
+            }*@
+            @*@if (ViewBag.Error == "Error")
+                {
+                    <p class="cerror ed" id="error">Login Failed: Incorrect Email or Password</p>
+                }*@
+
+
+
+
+            @*<form style="padding: 2em 5em 5em; margin-left: 1em;" action="~/Authentication/LoginUser" method="POST">*@
+            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", @style = "padding: 2em 5em 5em; margin-left: 1em;", role = "form" }))
+            {
+                <p style="color:red">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                </p>
+                <input id="Latitude" name="Latitude" type="hidden" />
+                <input id="Longitude" name="Longitude" type="hidden" />
+                <script type="text/javascript">
+                    //$(function () {
+                    var x = document.getElementById("Latitude");
+                    var y = document.getElementById("Longitude");
+                    var longitude;
+                    var latitude;
+                    if (navigator.geolocation) {
+                        navigator.geolocation.getCurrentPosition(showPosition);
+                    } else {
+                        x.innerHTML = "Geolocation is not supported by this browser.";
+                    }
+                    function showPosition(position) {
+                        latitude = position.coords.latitude;
+                        longitude = position.coords.longitude;
+                        x.value = latitude;
+                        y.value = longitude;
+                    }
+                    //});
+                </script>
+                @Html.AntiForgeryToken()
+
+                <table style=" display: flex; justify-content: center;">
+                    <tr>
+                        <td></td>
+                        <td>
+                            @*<input class="user-name form-control" type="text" name="username" id="username" placeholder="Username Or Email" required />*@
+                            @Html.TextBoxFor(m => m.UserName, new { @class = "user-name form-control", @placeholder = "Username Or Email" })
+                            @Html.ValidationMessageFor(m => m.UserName, "", new { @class = "cerror ed" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        @*<td><label for="password">Password </label></td>*@
+                        <td>
+                            @*<input class="user-name form-control" type="password" name="password" id="myInput" placeholder="Password" required /><br />*@
+                            @Html.PasswordFor(m => m.Password, new { @class = "user-name form-control", @placeholder = "User Password" })
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "cerror ed" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td style="font-weight: 700; color: teal; float:left;margin-top: ;">
+                            @*<input type="checkbox" onclick="myFunction()"> Show Password*@
+                            @Html.CheckBoxFor(m => m.RememberMe)
+                            @Html.LabelFor(m => m.RememberMe)
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <input type="submit" value="Log in" class="btn animate-btn" style="width: 100%; margin: 10px 0; background-color: green; color: white; font-weight: 700; border-radius: 10px; height: 39px;" />
+
+                            @*<input class="btn animate-btn" style="width: 100%; margin: 10px 0; background-color: green; color: white; font-weight: 700; border-radius: 10px; height: 39px;" type="submit" value="Login" />*@
+                        </td>
+                    </tr>
+                    @*<tr>
+                            <td></td>
+                            <center>
+                                <td style="margin: auto; text-align: center;">
+                                    @Html.ActionLink("Not Registerd? Register", "Register", null, new { @style = "background-color: white; text-align:center; color: teal;font-weight:bolder" })
+
+                                 </td>
+                            </center>
+                        </tr>*@
+                </table>
+                if (ViewBag.Message != null)
+                {
+
+                    <script>
+                            window.onload = function () {
+                                window.confirm("@ViewBag.Message");
+                            };
+
+                    </script>
+                }
+            }
+        </div>
+    </center>
+</div>
+@*@section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }*@
+<script type="text/javascript">
+    //$(function () {
+    var x = document.getElementById("Latitude");
+    var y = document.getElementById("Longitude");
+    var longitude;
+    var latitude;
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition);
+    } else {
+        x.innerHTML = "Geolocation is not supported by this browser.";
+    }
+    function showPosition(position) {
+        latitude = position.coords.latitude;
+        longitude = position.coords.longitude;
+        x.value = latitude;
+        y.value = longitude;
+    }
+    //});
+</script>
+
+<script>
+    $(document).ready(function () {
+        setTimeout(function () {
+            $("#error").hide(1000).empty();
+        }, 5000);
+    });
+</script>

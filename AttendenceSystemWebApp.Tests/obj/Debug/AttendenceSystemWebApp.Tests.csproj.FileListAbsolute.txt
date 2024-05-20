@@ -1,0 +1,2 @@
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp.Tests\obj\Debug\AttendenceSystemWebApp.Tests.csprojAssemblyReference.cache
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp.Tests\obj\Debug\AttendenceSystemWebApp.Tests.csproj.CoreCompileInputs.cache

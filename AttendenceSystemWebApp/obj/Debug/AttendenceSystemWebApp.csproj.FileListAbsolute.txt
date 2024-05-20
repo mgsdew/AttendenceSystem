@@ -1,0 +1,1841 @@
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll.config
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.pdb
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csc.exe
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csc.exe.config
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csc.rsp
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csi.exe
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csi.exe.config
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csi.rsp
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.AppContext.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Console.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.IO.Compression.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.AccessControl.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Claims.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.ValueTuple.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\vbc.exe
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\vbc.exe.config
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\vbc.rsp
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Antlr3.Runtime.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\EntityFramework.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Newtonsoft.Json.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Owin.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Helpers.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Http.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Mvc.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Optimization.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Razor.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\WebGrease.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Helpers.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Mvc.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Optimization.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Razor.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Newtonsoft.Json.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Antlr3.Runtime.pdb
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Http.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\EntityFramework.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csprojAssemblyReference.cache
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CoreCompileInputs.cache
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CopyComplete
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.pdb
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.AddEmployee.resources
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.GenerateResource.cache
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Win32.Primitives.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\netstandard.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.AppContext.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Collections.Concurrent.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Collections.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Collections.NonGeneric.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Collections.Specialized.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ComponentModel.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ComponentModel.EventBasedAsync.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ComponentModel.Primitives.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ComponentModel.TypeConverter.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Console.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Data.Common.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.Contracts.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.Debug.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.FileVersionInfo.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.Process.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.StackTrace.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.Tools.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.TraceSource.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.Tracing.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Drawing.Primitives.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Dynamic.Runtime.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Globalization.Calendars.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Globalization.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Globalization.Extensions.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.Compression.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.Compression.ZipFile.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.FileSystem.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.FileSystem.DriveInfo.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.FileSystem.Primitives.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.FileSystem.Watcher.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.IsolatedStorage.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.MemoryMappedFiles.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.Pipes.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.UnmanagedMemoryStream.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Linq.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Linq.Expressions.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Linq.Parallel.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Linq.Queryable.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Http.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.NameResolution.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.NetworkInformation.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Ping.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Primitives.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Requests.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Security.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Sockets.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.WebHeaderCollection.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.WebSockets.Client.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.WebSockets.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ObjectModel.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Reflection.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Reflection.Extensions.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Reflection.Primitives.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Resources.Reader.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Resources.ResourceManager.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Resources.Writer.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Extensions.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Handles.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Numerics.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Formatters.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Json.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Primitives.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Xml.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Claims.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Cryptography.Algorithms.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Cryptography.Csp.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Cryptography.Encoding.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Cryptography.Primitives.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Cryptography.X509Certificates.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Principal.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.SecureString.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Text.Encoding.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Text.Encoding.Extensions.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Text.RegularExpressions.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Overlapped.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Tasks.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Tasks.Parallel.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Thread.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.ThreadPool.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Timer.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ValueTuple.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.ReaderWriter.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.XDocument.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.XmlDocument.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.XmlSerializer.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.XPath.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.XPath.XDocument.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Abstractions.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Container.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Mvc.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\WebActivatorEx.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Abstractions.pdb
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Container.pdb
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Mvc.pdb
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.reeditemployeemodel.resources
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.AddAttendanceModel.resources
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.nothing.resources
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.AddAttendanceTable.resources
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.dll
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.xml
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.editattendance.resources
+E:\.Net Repository\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.editlonglatvartype.resources
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll.config
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.pdb
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csc.exe
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csc.exe.config
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csc.rsp
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csi.exe
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csi.exe.config
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csi.rsp
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.AppContext.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Collections.Immutable.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Console.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.IO.Compression.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Reflection.Metadata.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.AccessControl.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Claims.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.ValueTuple.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\vbc.exe
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\vbc.exe.config
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\vbc.rsp
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe.config
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Win32.Primitives.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\netstandard.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.AppContext.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Collections.Concurrent.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Collections.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Collections.NonGeneric.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Collections.Specialized.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ComponentModel.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ComponentModel.EventBasedAsync.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ComponentModel.Primitives.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ComponentModel.TypeConverter.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Console.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Data.Common.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.Contracts.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.Debug.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.FileVersionInfo.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.Process.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.StackTrace.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.Tools.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.TraceSource.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.Tracing.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Drawing.Primitives.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Dynamic.Runtime.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Globalization.Calendars.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Globalization.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Globalization.Extensions.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.Compression.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.Compression.ZipFile.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.FileSystem.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.FileSystem.DriveInfo.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.FileSystem.Primitives.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.FileSystem.Watcher.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.IsolatedStorage.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.MemoryMappedFiles.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.Pipes.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.UnmanagedMemoryStream.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Linq.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Linq.Expressions.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Linq.Parallel.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Linq.Queryable.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Http.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.NameResolution.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.NetworkInformation.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Ping.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Primitives.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Requests.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Security.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Sockets.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.WebHeaderCollection.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.WebSockets.Client.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.WebSockets.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ObjectModel.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Reflection.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Reflection.Extensions.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Reflection.Primitives.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Resources.Reader.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Resources.ResourceManager.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Resources.Writer.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Extensions.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Handles.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Numerics.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Formatters.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Json.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Primitives.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Xml.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Claims.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Cryptography.Algorithms.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Cryptography.Csp.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Cryptography.Encoding.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Cryptography.Primitives.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Cryptography.X509Certificates.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Principal.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.SecureString.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Text.Encoding.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Text.Encoding.Extensions.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Text.RegularExpressions.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Overlapped.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Tasks.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Tasks.Parallel.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Thread.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.ThreadPool.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Timer.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ValueTuple.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.ReaderWriter.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.XDocument.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.XmlDocument.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.XmlSerializer.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.XPath.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.XPath.XDocument.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Antlr3.Runtime.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\EntityFramework.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Newtonsoft.Json.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Owin.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Helpers.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Http.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Mvc.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Optimization.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Razor.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Abstractions.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Container.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Mvc.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\WebActivatorEx.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\WebGrease.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Helpers.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Mvc.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Razor.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Optimization.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Newtonsoft.Json.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Abstractions.pdb
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Container.pdb
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Mvc.pdb
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Antlr3.Runtime.pdb
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Http.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\EntityFramework.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csprojAssemblyReference.cache
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.AddEmployee.resources
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.reeditemployeemodel.resources
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.AddAttendanceModel.resources
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.nothing.resources
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.AddAttendanceTable.resources
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.editattendance.resources
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.editlonglatvartype.resources
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.GenerateResource.cache
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CoreCompileInputs.cache
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CopyComplete
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.dll
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.pdb
+A:\AttendenceSystemWebApp-main\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.Migrations.addmactoattendance.resources
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CoreCompileInputs.cache
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.pdb
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll.config
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.pdb
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csc.exe
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csc.exe.config
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csc.rsp
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csi.exe
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csi.exe.config
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\csi.rsp
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.AppContext.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Collections.Immutable.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Console.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.IO.Compression.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Reflection.Metadata.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.AccessControl.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Claims.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.ValueTuple.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\vbc.exe
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\vbc.exe.config
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\vbc.rsp
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe.config
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Win32.Primitives.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\netstandard.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.AppContext.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Collections.Concurrent.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Collections.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Collections.NonGeneric.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Collections.Specialized.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ComponentModel.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ComponentModel.EventBasedAsync.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ComponentModel.Primitives.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ComponentModel.TypeConverter.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Console.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Data.Common.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.Contracts.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.Debug.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.FileVersionInfo.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.Process.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.StackTrace.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.Tools.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.TraceSource.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.Tracing.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Drawing.Primitives.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Dynamic.Runtime.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Globalization.Calendars.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Globalization.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Globalization.Extensions.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.Compression.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.Compression.ZipFile.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.FileSystem.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.FileSystem.DriveInfo.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.FileSystem.Primitives.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.FileSystem.Watcher.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.IsolatedStorage.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.MemoryMappedFiles.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.Pipes.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.IO.UnmanagedMemoryStream.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Linq.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Linq.Expressions.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Linq.Parallel.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Linq.Queryable.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Http.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.NameResolution.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.NetworkInformation.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Ping.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Primitives.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Requests.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Security.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Sockets.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.WebHeaderCollection.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.WebSockets.Client.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.WebSockets.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ObjectModel.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Reflection.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Reflection.Extensions.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Reflection.Primitives.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Resources.Reader.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Resources.ResourceManager.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Resources.Writer.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Extensions.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Handles.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Numerics.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Formatters.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Json.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Primitives.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Xml.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Claims.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Cryptography.Algorithms.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Cryptography.Csp.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Cryptography.Encoding.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Cryptography.Primitives.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Cryptography.X509Certificates.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.Principal.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Security.SecureString.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Text.Encoding.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Text.Encoding.Extensions.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Text.RegularExpressions.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Overlapped.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Tasks.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Tasks.Parallel.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Thread.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.ThreadPool.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Timer.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ValueTuple.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.ReaderWriter.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.XDocument.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.XmlDocument.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.XmlSerializer.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.XPath.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Xml.XPath.XDocument.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Antlr3.Runtime.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\EntityFramework.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Newtonsoft.Json.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Owin.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Helpers.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Http.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Mvc.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Optimization.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Razor.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Abstractions.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Container.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Mvc.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\WebActivatorEx.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\WebGrease.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\EntityFramework.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Helpers.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Mvc.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Razor.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Optimization.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Newtonsoft.Json.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Abstractions.pdb
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Container.pdb
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Unity.Mvc.pdb
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Antlr3.Runtime.pdb
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Http.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CopyComplete
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Drawing.Common.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.Drawing.Common.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Aspose.Imaging.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\Aspose.Imaging.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\ImageProcessor.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.dll
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\ImageProcessor.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\bin\System.ValueTuple.xml
+A:\REL_Projects\AttendenceSystemWebApp-main\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csprojAssemblyReference.cache
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll.config
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.pdb
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csc.exe
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csc.exe.config
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csc.rsp
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csi.exe
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csi.exe.config
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\csi.rsp
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.AppContext.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Collections.Immutable.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Console.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.IO.Compression.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Reflection.Metadata.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.AccessControl.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Claims.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.ValueTuple.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\vbc.exe
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\vbc.exe.config
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\vbc.rsp
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe.config
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Win32.Primitives.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\netstandard.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.AppContext.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Collections.Concurrent.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Collections.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Collections.NonGeneric.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Collections.Specialized.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ComponentModel.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ComponentModel.EventBasedAsync.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ComponentModel.Primitives.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ComponentModel.TypeConverter.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Console.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Data.Common.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.Contracts.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.Debug.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.FileVersionInfo.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.Process.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.StackTrace.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.Tools.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.TraceSource.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.Tracing.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Drawing.Primitives.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Dynamic.Runtime.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Globalization.Calendars.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Globalization.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Globalization.Extensions.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.Compression.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.Compression.ZipFile.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.FileSystem.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.FileSystem.DriveInfo.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.FileSystem.Primitives.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.FileSystem.Watcher.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.IsolatedStorage.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.MemoryMappedFiles.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.Pipes.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.IO.UnmanagedMemoryStream.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Linq.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Linq.Expressions.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Linq.Parallel.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Linq.Queryable.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Http.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.NameResolution.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.NetworkInformation.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Ping.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Primitives.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Requests.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Security.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Sockets.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.WebHeaderCollection.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.WebSockets.Client.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.WebSockets.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ObjectModel.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Reflection.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Reflection.Extensions.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Reflection.Primitives.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Resources.Reader.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Resources.ResourceManager.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Resources.Writer.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Extensions.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Handles.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Numerics.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Formatters.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Json.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Primitives.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Xml.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Claims.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Cryptography.Algorithms.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Cryptography.Csp.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Cryptography.Encoding.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Cryptography.Primitives.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Cryptography.X509Certificates.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.Principal.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Security.SecureString.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Text.Encoding.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Text.Encoding.Extensions.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Text.RegularExpressions.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Overlapped.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Tasks.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Tasks.Parallel.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Thread.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.ThreadPool.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Timer.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.ReaderWriter.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.XDocument.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.XmlDocument.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.XmlSerializer.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.XPath.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Xml.XPath.XDocument.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Antlr3.Runtime.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Aspose.Imaging.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\EntityFramework.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\ImageProcessor.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Newtonsoft.Json.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Owin.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Drawing.Common.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ValueTuple.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Helpers.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Http.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Mvc.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Optimization.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Razor.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Abstractions.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Container.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Mvc.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\WebActivatorEx.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\WebGrease.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Aspose.Imaging.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\EntityFramework.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\ImageProcessor.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Drawing.Common.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.ValueTuple.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Helpers.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Mvc.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Razor.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Optimization.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Newtonsoft.Json.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Abstractions.pdb
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Container.pdb
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Unity.Mvc.pdb
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Antlr3.Runtime.pdb
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Http.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CoreCompileInputs.cache
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CopyComplete
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.dll
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.pdb
+A:\GitLab\AttendenceSystemWebApp\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csprojAssemblyReference.cache
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll.config
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.pdb
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csc.exe
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csc.exe.config
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csc.rsp
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csi.exe
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csi.exe.config
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csi.rsp
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.AppContext.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Collections.Immutable.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Console.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Compression.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Reflection.Metadata.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.AccessControl.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Claims.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.ValueTuple.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.exe
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.exe.config
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.rsp
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe.config
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Win32.Primitives.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\netstandard.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.AppContext.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Collections.Concurrent.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Collections.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Collections.NonGeneric.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Collections.Specialized.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.EventBasedAsync.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.Primitives.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.TypeConverter.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Console.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Data.Common.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Contracts.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Debug.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.FileVersionInfo.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Process.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.StackTrace.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Tools.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.TraceSource.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Tracing.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Drawing.Primitives.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Dynamic.Runtime.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Globalization.Calendars.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Globalization.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Globalization.Extensions.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.Compression.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.Compression.ZipFile.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.DriveInfo.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.Primitives.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.Watcher.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.IsolatedStorage.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.MemoryMappedFiles.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.Pipes.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.UnmanagedMemoryStream.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Linq.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Linq.Expressions.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Linq.Parallel.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Linq.Queryable.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Http.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.NameResolution.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.NetworkInformation.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Ping.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Primitives.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Requests.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Security.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Sockets.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.WebHeaderCollection.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.WebSockets.Client.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.WebSockets.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ObjectModel.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Reflection.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Reflection.Extensions.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Reflection.Primitives.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Resources.Reader.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Resources.ResourceManager.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Resources.Writer.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Extensions.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Handles.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Numerics.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Formatters.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Json.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Primitives.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Xml.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Claims.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Algorithms.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Csp.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Encoding.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Primitives.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.X509Certificates.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Principal.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.SecureString.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Text.Encoding.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Text.Encoding.Extensions.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Text.RegularExpressions.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Overlapped.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Parallel.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Thread.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.ThreadPool.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Timer.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.ReaderWriter.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.XDocument.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.XmlDocument.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.XmlSerializer.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.XPath.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.XPath.XDocument.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Antlr3.Runtime.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Aspose.Imaging.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\EntityFramework.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\ImageProcessor.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Newtonsoft.Json.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Owin.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Drawing.Common.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ValueTuple.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Helpers.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Http.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Mvc.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Optimization.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Razor.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Abstractions.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Container.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Mvc.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\WebActivatorEx.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\WebGrease.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Aspose.Imaging.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\EntityFramework.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\ImageProcessor.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Drawing.Common.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ValueTuple.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Helpers.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Mvc.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Razor.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Optimization.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Newtonsoft.Json.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Abstractions.pdb
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Container.pdb
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Mvc.pdb
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Antlr3.Runtime.pdb
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Http.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\GitLab\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csprojAssemblyReference.cache
+A:\GitLab\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CoreCompileInputs.cache
+A:\GitLab\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CopyComplete
+A:\GitLab\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.dll
+A:\GitLab\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.pdb
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll.config
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.pdb
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csc.exe
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csc.exe.config
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csc.rsp
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csi.exe
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csi.exe.config
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\csi.rsp
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.AppContext.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Console.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Compression.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Claims.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.ValueTuple.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.exe
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.exe.config
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.rsp
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Win32.Primitives.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\netstandard.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.AppContext.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Collections.Concurrent.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Collections.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Collections.NonGeneric.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Collections.Specialized.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.EventBasedAsync.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.Primitives.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.TypeConverter.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Console.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Data.Common.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Contracts.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Debug.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.FileVersionInfo.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Process.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.StackTrace.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Tools.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.TraceSource.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Tracing.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Drawing.Primitives.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Dynamic.Runtime.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Globalization.Calendars.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Globalization.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Globalization.Extensions.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.Compression.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.Compression.ZipFile.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.DriveInfo.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.Primitives.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.Watcher.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.IsolatedStorage.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.MemoryMappedFiles.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.Pipes.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.IO.UnmanagedMemoryStream.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Linq.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Linq.Expressions.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Linq.Parallel.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Linq.Queryable.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Http.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.NameResolution.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.NetworkInformation.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Ping.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Primitives.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Requests.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Security.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Sockets.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.WebHeaderCollection.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.WebSockets.Client.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.WebSockets.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ObjectModel.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Reflection.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Reflection.Extensions.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Reflection.Primitives.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Resources.Reader.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Resources.ResourceManager.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Resources.Writer.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Extensions.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Handles.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Numerics.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Formatters.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Json.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Primitives.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Xml.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Claims.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Algorithms.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Csp.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Encoding.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Primitives.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.X509Certificates.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.Principal.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Security.SecureString.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Text.Encoding.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Text.Encoding.Extensions.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Text.RegularExpressions.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Overlapped.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Parallel.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Thread.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.ThreadPool.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Timer.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.ReaderWriter.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.XDocument.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.XmlDocument.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.XmlSerializer.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.XPath.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Xml.XPath.XDocument.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Antlr3.Runtime.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Aspose.Imaging.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\EntityFramework.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\ImageProcessor.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Newtonsoft.Json.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Owin.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Drawing.Common.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ValueTuple.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Helpers.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Http.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Mvc.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Optimization.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Razor.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Abstractions.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Container.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Mvc.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\WebActivatorEx.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\WebGrease.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Aspose.Imaging.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\EntityFramework.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\ImageProcessor.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Drawing.Common.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.ValueTuple.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Helpers.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Mvc.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Razor.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Optimization.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Newtonsoft.Json.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Abstractions.pdb
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Container.pdb
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Unity.Mvc.pdb
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Antlr3.Runtime.pdb
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Http.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CoreCompileInputs.cache
+D:\GitLab\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.pdb
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\PagedList.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\PagedList.Mvc.dll
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\PagedList.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\bin\PagedList.Mvc.xml
+D:\GitLab\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.AssemblyReference.cache
+E:\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll.config
+E:\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll
+E:\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.pdb
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\csc.exe
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\csc.exe.config
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\csc.rsp
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\csi.exe
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\csi.exe.config
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\csi.rsp
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.AppContext.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Console.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Compression.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.AccessControl.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Claims.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.ValueTuple.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.exe
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.exe.config
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.rsp
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe
+E:\attendance\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Win32.Primitives.dll
+E:\attendance\AttendenceSystemWebApp\bin\netstandard.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.AppContext.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Collections.Concurrent.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Collections.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Collections.NonGeneric.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Collections.Specialized.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.EventBasedAsync.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.Primitives.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.TypeConverter.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Console.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Data.Common.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Contracts.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Debug.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.FileVersionInfo.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Process.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.StackTrace.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Tools.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.TraceSource.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Tracing.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Drawing.Primitives.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Dynamic.Runtime.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Globalization.Calendars.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Globalization.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Globalization.Extensions.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.IO.Compression.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.IO.Compression.ZipFile.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.IO.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.DriveInfo.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.Primitives.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.Watcher.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.IO.IsolatedStorage.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.IO.MemoryMappedFiles.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.IO.Pipes.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.IO.UnmanagedMemoryStream.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Linq.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Linq.Expressions.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Linq.Parallel.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Linq.Queryable.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.Http.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.NameResolution.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.NetworkInformation.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.Ping.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.Primitives.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.Requests.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.Security.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.Sockets.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.WebHeaderCollection.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.WebSockets.Client.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.WebSockets.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.ObjectModel.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Reflection.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Reflection.Extensions.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Reflection.Primitives.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Resources.Reader.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Resources.ResourceManager.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Resources.Writer.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.Extensions.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.Handles.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.Numerics.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Formatters.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Json.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Primitives.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Xml.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Security.Claims.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Algorithms.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Csp.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Encoding.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Primitives.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.X509Certificates.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Security.Principal.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Security.SecureString.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Text.Encoding.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Text.Encoding.Extensions.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Text.RegularExpressions.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Threading.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Threading.Overlapped.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Parallel.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Threading.Thread.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Threading.ThreadPool.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Threading.Timer.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Xml.ReaderWriter.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Xml.XDocument.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Xml.XmlDocument.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Xml.XmlSerializer.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Xml.XPath.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Xml.XPath.XDocument.dll
+E:\attendance\AttendenceSystemWebApp\bin\Antlr3.Runtime.dll
+E:\attendance\AttendenceSystemWebApp\bin\Aspose.Imaging.dll
+E:\attendance\AttendenceSystemWebApp\bin\EntityFramework.dll
+E:\attendance\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.dll
+E:\attendance\AttendenceSystemWebApp\bin\ImageProcessor.dll
+E:\attendance\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\attendance\AttendenceSystemWebApp\bin\Newtonsoft.Json.dll
+E:\attendance\AttendenceSystemWebApp\bin\Owin.dll
+E:\attendance\AttendenceSystemWebApp\bin\PagedList.dll
+E:\attendance\AttendenceSystemWebApp\bin\PagedList.Mvc.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Drawing.Common.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.ValueTuple.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Helpers.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Http.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Mvc.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Optimization.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Razor.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.dll
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.dll
+E:\attendance\AttendenceSystemWebApp\bin\Unity.Abstractions.dll
+E:\attendance\AttendenceSystemWebApp\bin\Unity.Container.dll
+E:\attendance\AttendenceSystemWebApp\bin\Unity.Mvc.dll
+E:\attendance\AttendenceSystemWebApp\bin\WebActivatorEx.dll
+E:\attendance\AttendenceSystemWebApp\bin\WebGrease.dll
+E:\attendance\AttendenceSystemWebApp\bin\Aspose.Imaging.xml
+E:\attendance\AttendenceSystemWebApp\bin\EntityFramework.xml
+E:\attendance\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.xml
+E:\attendance\AttendenceSystemWebApp\bin\ImageProcessor.xml
+E:\attendance\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.xml
+E:\attendance\AttendenceSystemWebApp\bin\PagedList.xml
+E:\attendance\AttendenceSystemWebApp\bin\PagedList.Mvc.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Drawing.Common.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.ValueTuple.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Helpers.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Mvc.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Razor.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Optimization.xml
+E:\attendance\AttendenceSystemWebApp\bin\Newtonsoft.Json.xml
+E:\attendance\AttendenceSystemWebApp\bin\Unity.Abstractions.pdb
+E:\attendance\AttendenceSystemWebApp\bin\Unity.Container.pdb
+E:\attendance\AttendenceSystemWebApp\bin\Unity.Mvc.pdb
+E:\attendance\AttendenceSystemWebApp\bin\Antlr3.Runtime.pdb
+E:\attendance\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Http.xml
+E:\attendance\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\attendance\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CoreCompileInputs.cache
+E:\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.dll
+E:\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.pdb
+E:\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CopyComplete
+D:\Project\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll.config
+D:\Project\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\AttendenceSystemWebApp.pdb
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\csc.exe
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\csc.exe.config
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\csc.rsp
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\csi.exe
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\csi.exe.config
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\csi.rsp
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.AppContext.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Console.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Compression.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.IO.Pipes.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Claims.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.ValueTuple.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.exe
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.exe.config
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\vbc.rsp
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe
+D:\Project\attendance\AttendenceSystemWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Win32.Primitives.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\netstandard.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.AppContext.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Collections.Concurrent.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Collections.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Collections.NonGeneric.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Collections.Specialized.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.Primitives.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.ComponentModel.TypeConverter.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Console.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Data.Common.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Contracts.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Debug.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Process.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.StackTrace.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Tools.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.TraceSource.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.Tracing.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Drawing.Primitives.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Dynamic.Runtime.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Globalization.Calendars.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Globalization.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Globalization.Extensions.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.IO.Compression.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.IO.Compression.ZipFile.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.IO.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.Primitives.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.IO.FileSystem.Watcher.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.IO.IsolatedStorage.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.IO.MemoryMappedFiles.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.IO.Pipes.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Linq.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Linq.Expressions.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Linq.Parallel.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Linq.Queryable.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.Http.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.NameResolution.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.NetworkInformation.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.Ping.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.Primitives.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.Requests.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.Security.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.Sockets.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.WebHeaderCollection.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.WebSockets.Client.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.WebSockets.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.ObjectModel.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Reflection.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Reflection.Extensions.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Reflection.Primitives.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Resources.Reader.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Resources.ResourceManager.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Resources.Writer.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.Extensions.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.Handles.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.Numerics.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Formatters.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Json.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Primitives.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.Serialization.Xml.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Security.Claims.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Algorithms.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Csp.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Encoding.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.Primitives.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Security.Principal.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Security.SecureString.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Text.Encoding.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Text.Encoding.Extensions.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Text.RegularExpressions.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Threading.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Threading.Overlapped.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Parallel.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Threading.Thread.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Threading.ThreadPool.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Threading.Timer.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Xml.ReaderWriter.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Xml.XDocument.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Xml.XmlDocument.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Xml.XmlSerializer.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Xml.XPath.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Xml.XPath.XDocument.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Antlr3.Runtime.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Aspose.Imaging.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\EntityFramework.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\ImageProcessor.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Newtonsoft.Json.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Owin.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\PagedList.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\PagedList.Mvc.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Drawing.Common.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.ValueTuple.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Helpers.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Http.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Mvc.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Optimization.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Razor.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Unity.Abstractions.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Unity.Container.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Unity.Mvc.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\WebActivatorEx.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\WebGrease.dll
+D:\Project\attendance\AttendenceSystemWebApp\bin\Aspose.Imaging.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\EntityFramework.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\EntityFramework.SqlServer.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\ImageProcessor.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\ImageProcessor.Plugins.WebP.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\PagedList.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\PagedList.Mvc.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Drawing.Common.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Threading.Tasks.Extensions.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.ValueTuple.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Helpers.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Mvc.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Razor.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.WebPages.Razor.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Optimization.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Newtonsoft.Json.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Unity.Abstractions.pdb
+D:\Project\attendance\AttendenceSystemWebApp\bin\Unity.Container.pdb
+D:\Project\attendance\AttendenceSystemWebApp\bin\Unity.Mvc.pdb
+D:\Project\attendance\AttendenceSystemWebApp\bin\Antlr3.Runtime.pdb
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Net.Http.Formatting.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Http.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\System.Web.Http.WebHost.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\attendance\AttendenceSystemWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csprojAssemblyReference.cache
+D:\Project\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CoreCompileInputs.cache
+D:\Project\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.csproj.CopyComplete
+D:\Project\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.dll
+D:\Project\attendance\AttendenceSystemWebApp\obj\Debug\AttendenceSystemWebApp.pdb

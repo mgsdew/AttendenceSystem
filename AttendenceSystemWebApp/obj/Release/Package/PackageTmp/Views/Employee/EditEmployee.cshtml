@@ -1,0 +1,303 @@
+﻿@model AttendenceSystemWebApp.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "EditEmployee";
+}
+
+<button type="button" class="btn btn-lg btn-block" style="margin-top: 3%; margin-bottom: 3%;background-color:darkslategrey;color:azure;font-weight:bold" >Edit Employee Information</button>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    if (@ViewBag.Message != "")
+    {
+        <h1 style="color:red;font-style:italic">@ViewBag.Message</h1>
+    }
+    <br />
+    <div class="row" style="color:black;font-weight:bold">
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.Label("Employee Code", htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+        </div>
+        <div class="col-md-4">
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+        </div>
+        <div class="col-md-4">
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Father, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Father, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Father, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+        </div>
+        <div class="col-md-4">
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Mother, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Mother, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Mother, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+        </div>
+        <div class="col-md-4">
+
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.DOB, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.DOB, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.DOB, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.LabelFor(model => model.DesignationId, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(x => x.DesignationId,
+                    new SelectList(ViewBag.Designations, "DesgId", "Desg"), "--select id--",new { @class = "form-control", @style = "font-size:large;font-weight:;color:black;background-color: white;" })
+                </div>
+            </div>
+
+
+
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.LabelFor(model => model.Entity, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(x => x.EntityId,
+                    new SelectList(ViewBag.Entities, "EID", "eName"), "--Select Entity--",new { @class = "form-control", @style = "font-size:large;font-weight:;color:black;background-color: white;" })
+                </div>
+            </div>
+
+
+
+        </div>        <div class="col-md-4">
+            <div class="form-group">
+                @Html.LabelFor(model => model.PhoneNumber, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.PhoneNumber, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.PhoneNumber, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+        </div>
+        <div class="col-md-4">
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.PresentAdd, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.PresentAdd, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.PresentAdd, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.LabelFor(model => model.ParmanentAdd, htmlAttributes: new { @class = "control-label col-md-12" })
+
+                <div class="col-md-12">
+
+                    @Html.EditorFor(model => model.ParmanentAdd, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.ParmanentAdd, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+        </div>
+        <div class="col-md-4">
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-4">
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Sex, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    <select class="form-control" data-val="true" data-val-length="The field Designation Name must be a string with a maximum length of 3." data-val-length-max="3" id="Sex" name="Sex" style="font-size:large;font-weight:;color:black;background-color: white;">
+                        <option value="">--Sex--</option>
+                        <option value="Male">Male</option>
+                        <option value="FeMale">Female</option>
+                    </select>
+
+
+                    @Html.ValidationMessageFor(model => model.Sex, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.LabelFor(model => model.DeptId, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+
+                    @Html.DropDownListFor(x => x.DeptId,
+                    new SelectList(ViewBag.Departments, "DeptId", "DeptNm"), "--select id--",new { @class = "form-control", @style = "font-size:large;font-weight:;color:black;background-color: white;" })
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.LabelFor(model => model.Longitude, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Longitude, new { htmlAttributes = new { @class = "form-control" } })
+
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.LabelFor(model => model.Latitude, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Latitude, new { htmlAttributes = new { @class = "form-control" } })
+
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.LabelFor(model => model.EmgContactPerson, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.EmgContactPerson, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.EmgContactPerson, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.LabelFor(model => model.EmgContactNo, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.EmgContactNo, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.EmgContactNo, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.LabelFor(model => model.NID, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.NID, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.NID, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        @*<div class="col-md-4">
+                <div class="form-group">
+                    @Html.LabelFor(model => model.PCName, htmlAttributes: new { @class = "control-label col-md-12" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.PCName, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.PCName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>*@
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.LabelFor(model => model.BloodGr, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+
+                    @*@Html.ValidationMessageFor(model => model.BloodGr, "", new { @class = "text-danger" })*@
+                    <select class="form-control" data-val="true" data-val-length="The field Designation Name must be a string with a maximum length of 3." data-val-length-max="3" id="BloodGr" name="BloodGr" style="font-size:large;font-weight:;color:black;background-color: white;">
+                        <option value="">--Blood Group--</option>
+                        <option value="A(+)">A(+)</option>
+                        <option value="A(-)">A(-)</option>
+                        <option value="B(+)">B(+)</option>
+                        <option value="B(-)">B(-)</option>
+                        <option value="AB(+)">AB(+)</option>
+                        <option value="AB(-)">AB(-)</option>
+                        <option value="O(+)">O(+)</option>
+                        <option value="O(-)">O(-)</option>
+                    </select>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    @*</div>*@
+
+
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create" class="btn btn-dark" />
+        </div>
+    </div>
+    @*</div>*@
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@*@section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }*@
+<link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-ui-1.12.1.js"></script>
+<script>
+    $(function () {
+        $("#DOB").datepicker();
+    });
+</script>

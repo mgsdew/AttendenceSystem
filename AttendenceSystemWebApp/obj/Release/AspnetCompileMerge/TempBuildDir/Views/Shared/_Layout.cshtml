@@ -1,0 +1,198 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Attendance System</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @*@Styles.Render("~/Content/css")*@
+
+    <link href="~/Content/custom.css" rel="stylesheet" />
+    <link href="~/Content/animate.min.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Monoton" />
+    <link href="~/Content/fontawesome.css" rel="stylesheet" />
+    @*<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">*@
+   
+
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+    @*<link href="~/Scripts/jquery.datetimepicker.min.css" rel="stylesheet" />*@
+    @*<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css">*@
+
+
+    <script src="~/Scripts/jquery-3.5.1.js"></script>
+    @*<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>*@
+    @*<script src="~/Scripts/bootstrap.js"></script>*@
+    <script src="~/Scripts/bootstrap.bundle.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/DataTables/jquery.dataTables.min.js"></script>
+    <script src="~/Scripts/fontawesome/all.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+        //    $('#myTable').DataTable();
+            $('#myTable').DataTable({
+                responsive: true               
+            });
+        });
+        
+    </script>
+
+</head>
+<body>
+    <nav style="background-color: #152F4F;" class="navbar fixed-top navbar-expand-lg navbar-dark">
+        <a class="navbar-brand myclass  animated bounceInLeft" href="#" style="font-family: Monoton;">
+            Attendance System
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="menual collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a style="color: whitesmoke; font-weight: bold;" class="btn btn-light text-dark" id="btnGroupDrop2" type="button" href="~/Attendance/AddAttendance">
+                        <svg width="1em" height="1em" viewBox="0 0 16 16" class="" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M8 3.293l6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6zm5-.793V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z" />
+                            <path fill-rule="evenodd" d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z" />
+                        </svg>
+
+                        <span class="sr-only">(current)</span>
+                    </a>
+                </li>
+                &nbsp;
+                @if (Request.IsAuthenticated && User.IsInRole("Admin"))
+                {
+                    <li class="nav-item dropdown">
+                        <button style="color: whitesmoke;background-color: #152F4F; font-weight: bold;" class="dropdown-toggle btn btn-primary" type="button" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Admin</button>
+                        <div class="dropdown-menu">
+                            @Html.ActionLink("Make Attendance", "Create", "Admin", null, new { @class = "dropdown-item btn text-primary" })
+                            <div class="dropdown-divider"></div>
+                            @Html.ActionLink("Add Employee", "Register", "Account", null, new { @class = "dropdown-item btn text-primary" })
+                            <div class="dropdown-divider"></div>
+                            @Html.ActionLink("Employee List View", "GetEmployee", "Employee", null, new { @class = "dropdown-item btn text-primary" })
+                            <div class="dropdown-divider"></div>
+                            @Html.ActionLink("Attendance Entry View", "GetAttendances", "Attendance", null, new { @class = "dropdown-item btn text-primary" })
+
+                        </div>
+                    </li>
+                }
+                @*@if (Request.IsAuthenticated && User.IsInRole("Admin"))
+        {
+                <li class="nav-item dropdown">
+                    <button style="color: whitesmoke;background-color: #152F4F; font-weight: bold;" class="dropdown-toggle btn btn-primary" type="button" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Employee Manager</button>
+                    <div class="dropdown-menu">
+                        @Html.ActionLink("Save Employee", "AddEmployee", "Employee", null, new { @class = "dropdown-item btn text-primary" })
+                        <div class="dropdown-divider"></div>
+                        @Html.ActionLink("View Employee List", "GetEmployee", "Employee", null, new { @class = "dropdown-item btn text-primary" })
+
+                    </div>
+                </li>
+                }
+                &nbsp;
+                @if (Request.IsAuthenticated && User.IsInRole("Admin"))
+                {
+                    <li class="nav-item dropdown">
+                        <button style="color: whitesmoke;background-color: #152F4F; font-weight: bold;" class="dropdown-toggle btn btn-primary" type="button" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Attendance Manager</button>
+                        <div class="dropdown-menu">
+                            @Html.ActionLink("Save Attendance", "AddAttendance", "Attendance", null, new { @class = "dropdown-item btn text-primary" })
+                            <div class="dropdown-divider"></div>
+
+                            @Html.ActionLink("View Attendance List", "GetAttendances", "Attendance", null, new { @class = "dropdown-item btn text-primary" })
+
+                        </div>
+                    </li>
+                }*@
+                &nbsp;
+
+
+            </ul>
+            <ul class="nav navbar-nav navbar-collapse">
+                @if (Request.IsAuthenticated && User.IsInRole("Employee"))
+                {
+                    <li>
+                        <a class="nav-item nav-link btn btn-light" href="/Attendance/AddAttendance" style="width: 160px; height: 45px; background-color: #152F4F;font-weight:bold;margin-top:7px;color:azure">Make Attendance</a>
+
+                    </li>
+                }
+            </ul>
+            @Html.Partial("_LoginPartial")
+            @*<button class="btn btn-secondary my-2 my-sm-0 " type="submit"><i class='fas fa-user-plus' style="color: azure"></i> <b style="color: azure">Login</b> </button>
+        <button class="btn btn-secondary my-2 my-sm-0 " type="submit"><i class="fas fa-sign-in-alt" style="color: azure"></i> <b style="color: azure">Register</b></button>*@
+
+        </div>
+
+        </nav>
+
+        
+
+            <div class="container body-content" style="margin-bottom:10px;margin-top:25px">
+                @RenderBody()
+                <hr />
+                
+            </div>
+
+
+            <footer class="page-footer font-small unique-color-dark fixed-bottom" style="background-color: #152F4F; color: white; margin-bottom: ; padding-top: ;">
+                <!-- Footer Links -->
+                @*<div class="container text-center text-md-left mt-5">
+
+                    <!-- Grid row -->
+                    <div class="row mt-3">
+
+                        <!-- Grid column -->
+                        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+
+                            <!-- Content -->
+                            <h6 class="font-weight-bold">Attendance System</h6>
+                            <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                            <p>
+                                Attendance System
+                            </p>
+
+                        </div>
+                        <!-- Grid column -->
+                        <!-- Grid column -->
+                        <!-- Grid column -->
+                        <!-- Grid column -->
+                        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+
+                            <!-- Links -->
+                            <h6 class="text-uppercase font-weight-bold">Contact</h6>
+                            <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                            <p>
+                                <i class="fas fa-home mr-3"></i> Bangladesh
+                            </p>
+                            <p>
+                                <i class="fas fa-envelope mr-3"></i> myemails@gmail.com
+                            </p>
+                            <p>
+                                <i class="fas fa-phone mr-3"></i> + 01 123 345 67
+                            </p>
+                            <p>
+                                <i class="fas fa-print mr-3"></i> + 01 234 567 89
+                            </p>
+
+                        </div>
+                        <!-- Grid column -->
+
+                    </div>
+                    <!-- Grid row -->
+
+                </div>*@
+                <!-- Footer Links -->
+                <!-- Copyright -->
+                <div class="footer-copyright text-center py-3">
+                    © 2021 - 2022 Copyright: Rangs Electronics Ltd.
+                </div>
+                <!-- Copyright -->
+
+            </footer>
+            @*@Scripts.Render("~/bundles/jquery")*@
+            @*@Scripts.Render("~/bundles/bootstrap")*@
+            @RenderSection("scripts", required: false)
+</body>
+</html>

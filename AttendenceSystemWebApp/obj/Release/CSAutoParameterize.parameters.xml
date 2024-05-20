@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="RelAttendance-Web.config Connection String" description="RelAttendance Connection String used in web.config by the application to access the database." defaultValue="data source=202.84.32.122,1533;initial catalog=HRMS;persist security info=True;user id=sa;password=rel@123;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="A:\\GitLab\\AttendenceSystemWebApp\\AttendenceSystemWebApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RelAttendance']/@connectionString" />
+  </parameter>
+</parameters>

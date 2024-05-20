@@ -1,0 +1,274 @@
+﻿@model PagedList.IPagedList<AttendenceSystemWebApp.Models.AttendanceViewModel>
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "GetAttendances";
+}
+
+
+
+<style>
+    input {
+        border-radius: 5px;
+    }
+
+    label {
+        font-weight: bold;
+        color: darkslategray;
+    }
+</style>
+
+<button type="button" class="btn btn-lg btn-block" style="margin-top: 3%; margin-bottom: 3%;background-color:darkslategrey;color:azure;font-weight:bold">Employee Attendance List</button>
+
+<p>
+    @Html.ActionLink("Create New", "Create", "Admin", null, new { @class = "btn btn-primary" })
+</p>
+
+@using (Html.BeginForm("GetAttendances", "Attendance", FormMethod.Get))
+{
+<div class="row">
+
+
+    <div class="col-md-6">
+
+        <div class="row col-md-12">
+            @Html.Label("Date From", new { @class = "" })
+            @Html.TextBox("DateFrom", "{0:yyyy-MM-ddTHH:mm:ss}", new
+                {
+                    @class = "form-control col-md-12",
+                    @type = "date"
+                })
+        </div>
+
+        <div class="row col-md-12">
+            @Html.Label("Date To", new { @class = "" })
+            @Html.TextBox("DateTo", "{0:yyyy-MM-ddTHH:mm:ss}", new
+                {
+                    @class = "form-control col-md-12",
+                    @type = "date"
+                })
+        </div>
+      
+    </div>
+    <div class="col-md-6">
+        <div class="row col-md-12">           
+                @Html.Label("Showroom", new { @class = "" })
+                @Html.DropDownList("EId", new SelectList(ViewBag.Entity, "EID", "eName"), "--Entity--", new { @class = "form-control col-md-12", @style = "font-size:large;font-weight:;color:black;background-color: white;" })
+           
+        </div>
+        <div class="row col-md-12" style="padding-top:25px;">
+                <input type="submit" class="btn btn-primary col-md-4" value="Search" />
+        </div>
+       
+    </div>
+
+</div>
+
+}
+
+
+<div class="table-responsive" style="padding-top:20px;">
+    <table class="table table-light row-border hover stripe table-responsive-xl" id="">
+        <thead style="color:azure;background-color:black">
+            <tr>
+                <th>
+                    Check In Image
+                </th>
+                <th>
+                    Check Out Image
+                </th>
+
+                <th>
+                    Employee
+                </th>
+                <th>
+                    Entry Time
+
+                </th>
+                <th>
+                    End Time
+
+                </th>
+                <th>
+                    Late Time
+
+                </th>
+                <th>
+                    Check Status
+
+                </th>
+                <th>
+                    Late Start
+
+                </th>
+                <th>
+                    Early Out
+
+                </th>
+
+                <th>
+                    Showroom
+
+                </th>
+
+                <th>
+                    CreatedBy
+
+                </th>
+
+                <th>
+                    Remarks
+
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody style="color:darkslategray;font-weight:bold">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+
+
+                        <img class="img-thumbnail" style="height:100px;width:100px" src="~/Content/Images/@item.CheckInImageUrl" />
+
+                    </td>
+                    <td>
+
+                        <img class="img-thumbnail" style="height:100px;width:100px" src="~/Content/Images/@item.CheckOutImageUrl" />
+
+                    </td>
+                    @*<td>
+                        </td>*@
+                    <td>
+                        @item.FirstName @item.LastName (@item.EmpCod)
+
+                    </td>
+                    <td>
+                        @item.EntryTime.DateTime
+                    </td>
+                    <td>
+                        @item.EndTime
+                    </td>
+                    <td>
+
+                        @string.Format("{0:hh\\:mm\\:ss}", @item.LateTime)
+                    </td>
+                    <td>
+
+                        @item.CheckStatus
+                    </td>
+                    <td>
+                        @if (@item.LateStart == true)
+                        {
+                            <input checked="checked" onclick="return false;" type="checkbox" value="true" />
+                        }
+                        else
+                        {
+                            <input onclick="return false;" type="checkbox" value="false" />
+                        }
+
+
+                    </td>
+                    <td>
+                        @if (@item.EarlyOut == true)
+                        {
+                            <input checked="checked" onclick="return false;" type="checkbox" value="true" />
+                        }
+                        else
+                        {
+                            <input onclick="return false;" type="checkbox" value="false" />
+                        }
+
+                    </td>
+                    
+                    <td>
+
+                        @item.Showroom
+                    </td>
+
+                    <td>
+
+                        @item.CreatedBy
+                    </td>
+                    <td>
+
+                        @item.Remarks
+                    </td>
+                    <td>                       
+                        <a class="" style="color:darkolivegreen" href="/Attendance/Edit/@item.Id"><i class="fas fa-edit"></i></a>
+                        <a class="" style="color:darkcyan" href="/Attendance/Details/@item.Id"><i class="fas fa-info-circle"></i></a>
+                        @*<a href="/Attendance/Delete/@item.Id" style="color:red" id="" class="" data-id="@item.Id"><i class="fas fa-trash-alt"></i></a>*@
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+
+
+
+
+
+    </table>
+    <br />
+    @{ 
+        var EId = Html.Value("EId").ToString();
+        var DateTo = Html.Value("DateTo").ToString();
+        var DateFrom = Html.Value("DateFrom").ToString();
+    }
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("GetAttendances",
+        new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter, EId,DateTo,DateFrom }))
+</div>
+<div id='myModal' class='modal'>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id='myModalContent' style="margin:20px;padding:20px"></div>
+        </div>
+    </div>
+</div>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="/resources/demos/style.css">
+<script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+<script>
+
+
+    $("#DateForSearch").datepicker();
+    //$('.DateForSearch').datepicker();
+
+    $('.datepicker').datepicker({
+        format: 'mm/dd/yyyy',
+        startDate: '-3d'
+    });
+
+    $("#anchorDel").click(function () {
+        var $buttonClicked = $(this);
+        var id = $buttonClicked.attr('data-id');
+        var options = { "backdrop": "static", keyboard: true };
+        $.ajax({
+            type: "GET",
+            url: '/Attendance/Delete',
+            contentType: "application/json; charset=utf-8",
+            data: { "Id": id },
+            datatype: "json",
+            success: function (data) {
+                //debugger;
+                $('#myModalContent').html(data);
+                $('#myModal').modal(options);
+                $('#myModal').modal('show');
+
+            },
+            error: function () {
+                alert("Dynamic content load failed.");
+            }
+        });
+    });
+
+    $("#closbtn").click(function () {
+        $('#myModal').modal('hide');
+    });
+
+            
+</script>

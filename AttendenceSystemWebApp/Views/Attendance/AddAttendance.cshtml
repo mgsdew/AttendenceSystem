@@ -1,0 +1,171 @@
+﻿@model AttendenceSystemWebApp.Models.AttndRegDet
+
+@{
+    ViewBag.Title = "AddAttendance";
+}
+
+
+
+@using (Html.BeginForm("AddAttendance", "Attendance", FormMethod.Post, new { id = "EmployeeAttendenceForm" }))
+{
+    @Html.AntiForgeryToken()
+    <div style="background-color:black;padding-left: ; border: 0pt whitesmoke groove; border-radius: 5pt; margin-bottom:3% ;">
+        <button type="button" class="btn btn-secondary btn-lg btn-block" style="margin-top: 3%; margin-bottom: 3%;font-weight:bold;color:azure">Employee Attendance</button>
+        <div class="row">
+            <div class="col-md-6" style="padding-left:25px">
+                @*<div class="container align-content-center col-md-4" style="">*@
+                @*<hr class="bg-white" />*@
+                <div class="form-group">
+                    @Html.LabelFor(model => model.EmpCod, htmlAttributes: new { @style = "font-size:large;font-weight:bold;color:Azure;" })
+                    @Html.EditorFor(model => model.EmpCod, new { htmlAttributes = new { @class = "form-control", @style = "font-size:large;font-weight:;color:Black;background-color: white;", @readonly = "readonly" } })
+                    @Html.ValidationMessageFor(model => model.EmpCod, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="Name" style="font-size:large;font-weight:bold;color:Azure;">Name</label>
+                    <input class="form-control text-box single-line" id="Name" name="Name" readonly="readonly" style="font-size:large;font-weight:;color:Black;background-color: white;" type="text" value="@ViewBag.Name" />
+
+                </div>
+                <div class="form-group" hidden>
+                    <label for="Email" style="font-size:large;font-weight:bold;color:Azure;">Email</label>
+                    <input class="form-control text-box single-line" id="Email" name="Email" readonly="readonly" style="font-size:large;font-weight:;color:Black;background-color: white;" type="text" value="@ViewBag.Email" />
+
+                </div>
+                <div class="form-group">
+                    <label for="Designation" style="font-size:large;font-weight:bold;color:Azure;">Designation</label>
+                    <input class="form-control text-box single-line" id="Designation" name="Designation" readonly="readonly" style="font-size:large;font-weight:;color:Black;background-color: white;" type="text" value="@ViewBag.Desg" />
+
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(x => x.CheckStatus, new { @style = "font-size:large;font-weight:bold;color:Azure;" })<br />
+                    @*Check In : @Html.RadioButtonFor(m => m.CheckStatus, "Check In")
+                        Check Out : @Html.RadioButtonFor(m => m.CheckStatus, "Check Out")*@
+                    <label class="btn btn-dark">
+                        @Html.RadioButtonFor(m => m.CheckStatus, "Check In") Check In
+                    </label>
+                    <label class="btn btn-dark">
+                        @Html.RadioButtonFor(m => m.CheckStatus, "Check Out") Check Out
+                    </label>
+                    @Html.ValidationMessageFor(model => model.CheckStatus, "", new { @class = "text-danger" })
+                </div>
+
+                @*<input class="btn btn-success" type="submit" id="" value="submit" />*@
+
+            </div>
+            <div class="col-md-6" style="padding-left:25px">
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Remarks, htmlAttributes: new { @style = "font-size:large;font-weight:bold;color:Azure;" })
+                    @Html.EditorFor(model => model.Remarks, new { htmlAttributes = new { @class = "form-control", @style = "font-size:large;font-weight:;color:Black;background-color: white;" } })
+                    @Html.ValidationMessageFor(model => model.Remarks, "", new { @class = "text-danger" })
+                </div>
+                @*<hr class="bg-white" />*@
+
+                <div class="form-group">
+                    <p id="demo" style="font-weight:bold;color:orange"></p>
+                    <input id="Latitude" name="Latitude" type="hidden" />
+                    <input id="Longitude" name="Longitude" type="hidden" />
+                    <input id="ImageUrl" name="ImageUrl" type="hidden" />
+                    <input id="MacAddress" name="MacAddress" type="hidden" value="@ViewBag.Mac" />
+                </div>
+                <label for="Live" style="font-size:large;font-weight:bold;color:Azure;">Live Camera</label>
+
+                <div id="webcam" class="form-group" style="border:1pt solid azure;width:330px;height:260px;">
+
+                </div>
+                <br />
+                <input class="btn btn-success" id="btnCapture" type="submit" value="submit" />
+                <div class="form-group">
+                    @if (ViewBag.Message != null && ViewBag.Message != "Your attendance has been successfully recorded.")
+                    {
+                        <script>
+                            window.onload = function () {
+                                window.confirm("@ViewBag.Message");
+                            };                            
+
+                        </script>
+                    }
+                    else if(ViewBag.Message == "Your attendance has been successfully recorded.")
+                    {
+                        <script>
+                            window.onload = function () {
+                                window.confirm("@ViewBag.Message");
+                            };
+                            if (confirm('Your attendance has been successfully recorded.')) {
+                                window.location.href = "/Attendance/AttendanceListByEmployee";
+                            }
+
+                        </script>
+                    }
+
+                </div>
+            </div>
+            <hr class="bg-white" />
+
+        </div>
+
+
+
+
+
+
+    </div>
+}
+
+
+<script src="~/Scripts/webcamjs-master/webcam.js"></script>
+<script type="text/javascript">
+    var message = document.getElementById("message");
+    $(function () {
+        var x = document.getElementById("Latitude");
+        var y = document.getElementById("Longitude");
+        var longitude;
+        var latitude;
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(showPosition);
+        } else {
+            x.innerHTML = "Geolocation is not supported by this browser.";
+        }
+        function showPosition(position) {
+            latitude = position.coords.latitude;
+            longitude = position.coords.longitude;
+            x.value = latitude;
+            y.value = longitude;
+        }
+        var i;
+        Webcam.set({
+            width: 320,
+            height: 240,
+            image_format: 'jpeg',
+            jpeg_quality: 90
+        });
+        Webcam.attach('#webcam');
+        $("#btnCapture").click(function () {
+
+            Webcam.snap(function (data_uri) {
+                var z = document.getElementById("ImageUrl");
+                //data_uri = dataUrl.replace('data:image/jpeg;base64,', '');
+                z.value = data_uri;
+
+                //document.getElementById('results').innerHTML =
+                //    '<img id="ImageUrl" name="ImageUrl" src="' + data_uri + '"/>';
+
+            });
+
+            function submitform() {
+                $('#EmployeeAttendenceForm').ajaxForm({
+                    type: "post",
+                    url: '/Attendance/AddAttendance',
+                    beforeSubmit: function () {
+                    },
+                    success: function (response) {
+                        console.log("Success");
+                    }
+                });
+            }
+
+        });
+
+    });
+
+</script>
+

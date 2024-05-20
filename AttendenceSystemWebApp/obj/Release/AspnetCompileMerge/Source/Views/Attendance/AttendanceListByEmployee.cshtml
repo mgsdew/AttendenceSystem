@@ -1,0 +1,122 @@
+﻿@model IEnumerable<AttendenceSystemWebApp.Models.AttendanceViewModel>
+@{
+    ViewBag.Title = "GetAttendances";
+}
+<style>
+    input {
+        border-radius: 5px;
+    }
+
+    label {
+        font-weight: bold;
+        color: darkslategray;
+    }
+</style>
+
+<button type="button" class="btn btn-lg btn-block" style="margin-top: 3%; margin-bottom: 3%;background-color:darkslategrey;color:azure;font-weight:bold">Employee Attendance List</button>
+
+    <p>
+        @Html.ActionLink("Create New", "AddAttendance", "Attendance", null, new { @class = "btn btn-primary" })
+    </p>
+
+<table class="table table-dark row-border hover stripe table-responsive-xl" id="myTable">
+    <thead style="color:azure">
+        <tr>
+            <th>
+                Check In Image
+            </th>
+            <th>
+                Check Out Image
+            </th>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.CreatedDate)
+                </th>*@
+            <th>
+                Employee
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EntryTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CheckStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LateStart)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EarlyOut)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Remarks)
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody style="color:darkslategray;font-weight:bold">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+
+
+                    <img class="img-thumbnail" style="height:100px;width:100px" src="~/Content/Images/@item.CheckInImageUrl" />
+                </td>
+                <td>
+
+                    <img class="img-thumbnail" style="height:100px;width:100px" src="~/Content/Images/@item.CheckOutImageUrl" />
+
+                </td>
+                <td>
+                    @item.FirstName @item.LastName (@item.EmpCod)
+
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EntryTime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndTime)
+
+                </td>
+                <td>
+
+                    @Html.DisplayFor(modelItem => item.LateTime)
+                </td>
+                <td>
+
+                    @Html.DisplayFor(modelItem => item.CheckStatus)
+                </td>
+                <td>
+
+                    @Html.CheckBoxFor(modelItem => item.LateStart, new { @onclick = "return false;" })
+                </td>
+                <td>
+
+                    @Html.CheckBoxFor(modelItem => item.EarlyOut, new { @onclick = "return false;" })
+                </td>
+                <td>
+
+                    @Html.DisplayFor(modelItem => item.Remarks)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+
+
+
+
+
+</table>
+
+<script>
+
+    //$(function () {
+    
+
+</script>

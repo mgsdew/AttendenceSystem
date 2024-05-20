@@ -1,0 +1,177 @@
+﻿@model IEnumerable<AttendenceSystemWebApp.Models.AttndRegDet>
+
+@{
+    ViewBag.Title = "GetAttendances";
+}
+<style>
+    input {
+        border-radius: 5px;
+    }
+
+    label {
+        font-weight: bold;
+        color: darkslategray;
+    }
+</style>
+
+<button type="button" class="btn btn-lg btn-block" style="margin-top: 3%; margin-bottom: 3%;background-color:darkslategrey;color:azure;font-weight:bold">Employee Attendance List</button>
+<p>
+    @Html.ActionLink("Create New", "Create", "Admin", null, new { @class = "btn btn-primary" })
+</p>
+<table class="table table-dark row-border hover stripe"" id="myTable">
+    <thead style="color:azure">
+        <tr>
+            <th>
+                Image
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.CreatedDate)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.EmpCod)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.EntryTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CheckStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LateStart)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EarlyOut)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Remarks)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedBy)
+            </th>
+            @*<th>
+            @Html.DisplayNameFor(model => model.Longitude)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Latitude)
+        </th>*@
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody style="color:darkslategray;font-weight:bold">
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @if (item.CheckStatus == "Check In")
+                {
+                    <img class="img-thumbnail" style="height:100px;width:100px" src="~/Content/Images/@item.CheckInImageUrl" />
+                }
+                else
+                {
+                    <img class="img-thumbnail" style="height:100px;width:100px" src="~/Content/Images/@item.CheckOutImageUrl" />
+                }
+                @*@Html.DisplayFor(modelItem => item.ImageUrl)*@
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.CreatedDate, new { @readonly = "readonly", @style = "width:70%" })
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpCod)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EntryTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CheckStatus)
+            </td>
+            <td>
+                @Html.CheckBoxFor(modelItem => item.LateStart, new { @onclick = "return false;" })
+            </td>
+            <td>
+                @Html.CheckBoxFor(modelItem => item.EarlyOut, new { @onclick = "return false;" })
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Remarks)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedBy)
+            </td>
+            @*<td>
+            @Html.DisplayFor(modelItem => item.Longitude)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Latitude)
+        </td>*@
+
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "" }) |*@
+                @*@Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-success" }) |*@
+                @*<a href="javascript:void(0);" class="" id="anchorDel" data-id="@item.Id">Remove</a>*@
+                <a class="" style="color:darkolivegreen" href="/Attendance/Edit/@item.Id"><i class="fas fa-edit"></i></a>
+                <a class="" style="color:darkcyan" href="/Attendance/Details/@item.Id"><i class="fas fa-info-circle"></i></a>
+                <a href="javascript:void(0);" style="color:red" id="anchorDel" class="" data-id="@item.Id"><i class="fas fa-trash-alt"></i></a>
+            </td>
+        </tr>
+        }
+    </tbody>
+
+
+
+
+
+</table>
+<div id='myModal' class='modal'>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id='myModalContent' style="margin:20px;padding:20px"></div>
+        </div>
+    </div>
+</div>
+<script>
+
+    //$(function () {
+    $("#anchorDel").click(function () {
+        var $buttonClicked = $(this);
+        var id = $buttonClicked.attr('data-id');
+        var options = { "backdrop": "static", keyboard: true };
+        $.ajax({
+            type: "GET",
+            url: '/Attendance/Delete',
+            contentType: "application/json; charset=utf-8",
+            data: { "Id": id },
+            datatype: "json",
+            success: function (data) {
+                //debugger;
+                $('#myModalContent').html(data);
+                $('#myModal').modal(options);
+                $('#myModal').modal('show');
+
+            },
+            error: function () {
+                alert("Dynamic content load failed.");
+            }
+        });
+    });
+    //$("#closebtn").on('click',function(){
+    //    $('#myModal').modal('hide');
+
+    $("#closbtn").click(function () {
+        $('#myModal').modal('hide');
+    });
+    //});
+
+</script>
